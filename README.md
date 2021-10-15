@@ -8,4 +8,4 @@ Tcpdump buffers before it outputs to text file so I collect all tcpdump info and
 
 tcpdump command - this can be setup on startup
 
-sudo tcpdump -w > /var/www/html
+sudo tcpdump -w > /var/www/html/dumpfile.txt
